@@ -1,6 +1,6 @@
 {
     "builds": [{
-      "src": "abcd.py",
+      "src": "flaskapp.py",
       "use": "@vercel/python"
     }],
     "routes": [{
